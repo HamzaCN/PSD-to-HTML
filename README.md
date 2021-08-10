@@ -1,0 +1,2 @@
+# PSD-to-HTML
+PSD to HTML is a common design-to-code process, converting a Photoshop Document into an HTML file. This method allows web designers and developers to work together to make a great looking and highly functional website.We will convert a PSD into a responsive web layout with mobile menu and custom carousel. Converting PSD into Responsive HTML layouts is a demanding skill in the market and it requires more and more practice to reach perfection.

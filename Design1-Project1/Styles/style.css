@@ -1,3 +1,35 @@
 /* 
 --------Header---------
 */
+.top-menu {
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    color: #506A85;
+    background-color: #DEDFE2;
+}
+.header-contact span:first-child{
+    margin: 0 20px;
+}
+.social-icons {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+    display: block;
+    width: 100%;
+}
+
+.social-icons li{
+    display: inline-block;
+    margin: 0 10px;
+}
+.social-icons li:last-child{
+    margin-right: 0px;
+}
+.social-icons li a{
+    font-size: 14px;
+}
+.social-icons li a:hover, .social-icons li a:active, .social-icons li a:visited {
+    color: #628ebd;
+}
